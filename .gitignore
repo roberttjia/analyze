@@ -45,3 +45,18 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+*.suo
+bin/Debug/Analyze.exe
+bin/Debug/Analyze.exe.config
+*.pdb
+bin/Debug/Analyze.vshost.exe
+bin/Debug/Analyze.vshost.exe.config
+bin/Debug/Analyze.vshost.exe.manifest
+obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+*.dll
+obj/Debug/Analyze.csproj.FileListAbsolute.txt
+obj/Debug/Analyze.exe
+obj/Debug/Analyze.csprojResolveAssemblyReference.cache
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
