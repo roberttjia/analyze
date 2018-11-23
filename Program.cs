@@ -11,7 +11,25 @@ namespace Analyze
     {
         static void Main(string[] args)
         {
-            Test1();
+            //Test1();
+            //OldSampleTests.MarketRent();
+            //SampleTests.CompositeMarketRent();
+            //SampleTests.RentRoll();
+            //SampleTests.LeaseExample1();
+            //SampleTests.NRCollections1();
+            //SampleTests.LeaseExample2();
+            Prokore.Analysis.PropertyFinancials.SampleTest3.Run();
+            /*
+            Prokore.Analysis.Rent.NRBranchCollectionGenerator.generateCollection(
+                new DateTime(2018, 11, 1),
+                new DateTime(2068, 11, 1),
+                10,
+                6,
+                3,
+                3,
+                3.5M,
+                2.5M);
+                */
         }
 
         static void Test1()
@@ -33,5 +51,6 @@ namespace Analyze
                 Console.WriteLine(string.Format("{0} - {1}", pt.Date, pt.Amount));
             }
         }
+
     }
 }
